@@ -1,4 +1,4 @@
-## 스프링 MVC - 기본 기능 [![Build Status](https://app.travis-ci.com/ifntsh/springmvc.svg?branch=main)](https://app.travis-ci.com/ifntsh/springmvc)
+## 스프링 MVC - 기본 기능
 
 
 1. 프로젝트 생성
